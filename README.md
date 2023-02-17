@@ -1,17 +1,17 @@
-## Authentication app
+## Budget app
 
-Authentication app is a login page, user registration along with password reset and google authentication.
+Expense management app.
 
 ## Demo (Desktop only)
-https://authorization-supabase-react-app.netlify.app/
+https://budget-supabase-react-app.netlify.app/
 
 ---
 
 ## Installation
 
 ```plaintext
-git clone https://github.com/annaswitaj/authentication-app.git
-cd authentication-app
+git clone https://github.com/annaswitaj/budget-app.git
+cd budget-app
 pnpm install
 pnpm run dev
 ```
@@ -22,3 +22,16 @@ pnpm run dev
 -   vite
 -   React
 -   supabase
+
+## Fuctionalities to implement
+
+- [ ] Fix existing bugs :smile:  
+- [x] Do google authentication, login register
+- [x] Add app to netlify
+- [ ] Do reset password
+- [ ] Creating a form for adding categories
+- [ ] Add categories
+- [ ] Add datapicker
+- [ ] Add accounts
+- [ ] Add settings
+- [ ] Add Theme
