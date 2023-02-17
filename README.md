@@ -35,3 +35,7 @@ pnpm run dev
 - [ ] Add accounts
 - [ ] Add settings
 - [ ] Add Theme
+
+## References
+https://github.com/topics/budget-app?l=javascript&o=desc&s=updated
+https://github.com/YusufLisawi/Budgie
